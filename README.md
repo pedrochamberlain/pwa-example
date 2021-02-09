@@ -8,6 +8,7 @@
 - PWAs are browser based web applications (HTML5 / CSS / JavaScript). By using the latest browser features, they implement native app-typical capabilities and features, including all listed above. Running in a separate browser window without address bar, they are visually and functionally near-indistinguishable to apps. 
 - "Progressive" means: A PWA must be designed to maintain basic functionality even if run offline and/or on a browser that does not support some features. 
 - PWAs don’t install in the classical sense. An icon is added to the screen and advanced browser caching is used. The browser provides a secure execution environment to which PWAs are ‘installed’.
+- Service workers are a huge aspect of PWAs. They cache pages in order to view them offline. [Learn more on Service Workers & Caching here.](https://www.youtube.com/watch?v=ksXwaWHCW6k)
 
 ## How to build a PWA
 1. Create the following files: `index.html`, `manifest.json`, `service-worker.js`. Download a logo for your PWA. [You can use mine.](https://github.com/pedrochamberlain/pwa-example/blob/main/logo.png)
@@ -76,4 +77,5 @@ Safari|N/A|Yes|N/A|iOS 11.3+|
 ## Documentation
 - [Workbox – JavaScript library for PWAs](https://developers.google.com/web/tools/workbox/modules/workbox-sw)
 - [PWA Asset Generator - Automates asset generation and image declaration](https://github.com/onderceylan/pwa-asset-generator)
-- [Fireship PWA Tutorial](https://www.youtube.com/watch?v=sFsRylCQblw)
+- [PWA Tutorial – Fireship](https://www.youtube.com/watch?v=sFsRylCQblw)
+- [Intro To Service Workers & Caching - Traversy Media](https://www.youtube.com/watch?v=ksXwaWHCW6k)
