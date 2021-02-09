@@ -59,6 +59,10 @@ Your PWA is now ready to use!
 
 Run `npx serve` in your command line to test it up.
 
+<div align="center">
+  <img width="450px" src="https://imgur.com/gHpJ7iI.jpg">
+</div>
+
 
 ## Browser Support
 Browser|Windows|macOS|Android|iOS|
