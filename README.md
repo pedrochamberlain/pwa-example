@@ -1,6 +1,6 @@
 # Building a Progressive Web Application from Scratch 
 <p align="center">
-  <img width="500px" src="https://insight-wellcode.s3.ap-southeast-1.amazonaws.com/2t6da9n9rye3g2z9az9rn60lc7or?response-content-disposition=inline%3B%20filename%3D%220b04fc423e0da4bc.png%22%3B%20filename%2A%3DUTF-8%27%270b04fc423e0da4bc.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQS376IWIQJGFP2HL%2F20210209%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20210209T172831Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=d3aacb710fcc838c3a7b8c35ce01144427a15aeefbb9b8fe5bc72c655571b524">
+  <img width="500px" src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png">
   <br>
   <a href="https://www.youtube.com/watch?v=sFsRylCQblw">Based on a Fireship tutorial</a>
   
